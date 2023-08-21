@@ -34,3 +34,6 @@ the repository. Make sure to use this command to run your server:
 ```
 web: gunicorn helloworld.wsgi
 ```
+
+## Watch How to Set Up a Django Application on Kinsta
+[![Watch the video](https://img.youtube.com/vi/6nbEnnZxisY/maxresdefault.jpg)](https://www.youtube.com/watch?v=6nbEnnZxisY)
