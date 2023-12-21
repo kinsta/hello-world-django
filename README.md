@@ -1,5 +1,3 @@
-![Photo by Yoksel 🌿 Zok on Unsplash](https://user-images.githubusercontent.com/2342458/202705332-ac5f854f-6622-462d-b5c9-f2f1f0d61b45.png)
-
 # Kinsta - Hello World - Django
 An example of how to set your Django application up to enable deployment on Kinsta App Hosting services.
 
